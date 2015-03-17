@@ -1,0 +1,3 @@
+# Learning materials
+This is a collection of learning materials. The concept is to create a list of high-quality, in-depth articles, blog posts,... 
+which focus on the core of languages, make it the must-have for anyone who want to learn the language seriously. 
