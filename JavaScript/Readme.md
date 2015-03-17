@@ -1,5 +1,5 @@
 # Introduction
-This list is an attemp to collect all the resources for learning JavaScript properly. We aim to a depth knowledge about JavaScript, without bias, without frameworks/tools. Just plain JavaScript.
+This list is an attempt to collect all the resources for learning JavaScript properly. We aim to a depth knowledge about JavaScript, without bias, without frameworks/tools. Just plain JavaScript.
 
 ## Core concepts
  * Javascript. The core. (Dmitry Soshnikov) http://dmitrysoshnikov.com/ecmascript/javascript-the-core/
