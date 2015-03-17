@@ -8,6 +8,7 @@ This list is an attempt to collect all the resources for learning JavaScript pro
 ## Functions
  * ECMA-262-3 in detail. Chapter 5. Functions. (Dmitry Soshnikov) http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/
  * Crockford on JavaScript - Act III: Function the Ultimate (Douglas Crockford) https://www.youtube.com/watch?v=ya4UHuXNygM
+ * Named function expressions demystified (kangax) http://kangax.github.io/nfe/
 
 ## Scopes and closures
   * Everything you wanted to know about JavaScript scope (Todd Motto) http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
