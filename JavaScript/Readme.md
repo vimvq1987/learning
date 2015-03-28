@@ -19,3 +19,6 @@ This list is an attempt to collect all the resources for learning JavaScript pro
  * The Definitive Guide to Object-Oriented JavaScript (James Shore) https://www.youtube.com/watch?v=PMfcsYzj-9M
  * Classical Inheritance is Obsolete - How to Think in Prototypal OO (Eric Elliott) https://vimeo.com/69255635
  * Prototypes and Inheritance in JavaScript (Scott Allen) https://msdn.microsoft.com/en-us/magazine/ff852808.aspx
+
+## Styles
+ * Airbnb JavaScript Style Guide https://github.com/airbnb/javascript/blob/master/README.md
