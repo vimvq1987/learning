@@ -3,6 +3,7 @@ This list is an attempt to collect all the resources for learning JavaScript pro
 
 ## Core concepts
  * Javascript. The core. (Dmitry Soshnikov) http://dmitrysoshnikov.com/ecmascript/javascript-the-core/
+ * JavaScript Garden http://bonsaiden.github.io/JavaScript-Garden/
  * Understanding delete (kangax) http://perfectionkills.com/understanding-delete/
 
 ## Functions
