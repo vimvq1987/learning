@@ -15,6 +15,7 @@ This list is an attempt to collect all the resources for learning JavaScript pro
   * Everything you wanted to know about JavaScript scope (Todd Motto) http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
   * How do JavaScript closures work? http://stackoverflow.com/questions/111102/how-do-javascript-closures-work
   * What is the scope of variables in JavaScript? http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript
+  * A Little This, a Little _that: Understanding Scope in JavaScript (David Aragon) https://www.youtube.com/watch?v=lTUyNW9oTLo
 
 ## Object-Oriented & Prototypes
  * The Definitive Guide to Object-Oriented JavaScript (James Shore) https://www.youtube.com/watch?v=PMfcsYzj-9M
