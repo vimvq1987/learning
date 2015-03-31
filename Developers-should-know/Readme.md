@@ -9,3 +9,5 @@ This list is an attempt to collect all the resources that (we think) every softw
 ** What Every Programmer Should Know About Memory (Ulrich Drepper) http://www.akkadia.org/drepper/cpumemory.pdf
 
 ** What technical details should a programmer of a web application consider before making the site public? http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
+
+** What Every Programmer Should Know About SEO (kate{mats}) http://katemats.com/what-every-programmer-should-know-about-seo/
