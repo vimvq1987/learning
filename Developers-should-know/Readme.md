@@ -11,3 +11,8 @@ This list is an attempt to collect all the resources that (we think) every softw
 ** What technical details should a programmer of a web application consider before making the site public? http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before
 
 ** What Every Programmer Should Know About SEO (kate{mats}) http://katemats.com/what-every-programmer-should-know-about-seo/
+
+** What every web developer must know about URL encoding (Stéphane Épardaud) http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding
+
+** What Every Computer Scientist Should Know About Floating-Point Arithmetic http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
